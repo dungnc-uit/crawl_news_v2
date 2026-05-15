@@ -7898,5 +7898,355 @@
     "fetch_failed": 0,
     "too_old": 9,
     "pages_visited": 2
+  },
+  "cat:2026-05-15T06:https://znews.vn/xuat-ban.html": {
+    "done": true,
+    "ts": "2026-05-15T06:58:22.072646+00:00",
+    "added": 11,
+    "dup": 343,
+    "invalid": 0,
+    "fetch_failed": 0,
+    "too_old": 48,
+    "pages_visited": 8
+  },
+  "cat:2026-05-15T06:https://znews.vn/kinh-doanh-tai-chinh.html": {
+    "done": true,
+    "ts": "2026-05-15T06:59:24.229730+00:00",
+    "added": 32,
+    "dup": 949,
+    "invalid": 0,
+    "fetch_failed": 0,
+    "too_old": 14,
+    "pages_visited": 20
+  },
+  "cat:2026-05-15T06:https://znews.vn/suc-khoe.html": {
+    "done": true,
+    "ts": "2026-05-15T07:00:09.357798+00:00",
+    "added": 14,
+    "dup": 480,
+    "invalid": 0,
+    "fetch_failed": 0,
+    "too_old": 23,
+    "pages_visited": 10
+  },
+  "cat:2026-05-15T06:https://znews.vn/the-thao.html": {
+    "done": true,
+    "ts": "2026-05-15T07:01:34.800979+00:00",
+    "added": 47,
+    "dup": 1494,
+    "invalid": 0,
+    "fetch_failed": 0,
+    "too_old": 8,
+    "pages_visited": 34
+  },
+  "cat:2026-05-15T06:https://znews.vn/doi-song.html": {
+    "done": true,
+    "ts": "2026-05-15T07:02:40.955880+00:00",
+    "added": 18,
+    "dup": 378,
+    "invalid": 0,
+    "fetch_failed": 0,
+    "too_old": 42,
+    "pages_visited": 10
+  },
+  "cat:2026-05-15T06:https://znews.vn/cong-nghe.html": {
+    "done": true,
+    "ts": "2026-05-15T07:03:00.966670+00:00",
+    "added": 15,
+    "dup": 84,
+    "invalid": 0,
+    "fetch_failed": 0,
+    "too_old": 4,
+    "pages_visited": 2
+  },
+  "cat:2026-05-15T06:https://znews.vn/giai-tri.html": {
+    "done": true,
+    "ts": "2026-05-15T07:04:09.988010+00:00",
+    "added": 23,
+    "dup": 601,
+    "invalid": 0,
+    "fetch_failed": 0,
+    "too_old": 38,
+    "pages_visited": 13
+  },
+  "cat:2026-05-15T06:https://laodong.vn/thoi-su/": {
+    "done": true,
+    "ts": "2026-05-15T07:05:09.815236+00:00",
+    "added": 23,
+    "dup": 425,
+    "invalid": 5,
+    "fetch_failed": 0,
+    "too_old": 1,
+    "pages_visited": 32
+  },
+  "cat:2026-05-15T06:https://laodong.vn/the-gioi/": {
+    "done": true,
+    "ts": "2026-05-15T07:05:57.065250+00:00",
+    "added": 19,
+    "dup": 304,
+    "invalid": 6,
+    "fetch_failed": 0,
+    "too_old": 2,
+    "pages_visited": 23
+  },
+  "cat:2026-05-15T06:https://laodong.vn/xa-hoi/": {
+    "done": true,
+    "ts": "2026-05-15T07:08:10.734628+00:00",
+    "added": 92,
+    "dup": 292,
+    "invalid": 17,
+    "fetch_failed": 0,
+    "too_old": 1,
+    "pages_visited": 31
+  },
+  "cat:2026-05-15T06:https://laodong.vn/phap-luat/": {
+    "done": true,
+    "ts": "2026-05-15T07:09:23.686494+00:00",
+    "added": 42,
+    "dup": 264,
+    "invalid": 11,
+    "fetch_failed": 0,
+    "too_old": 1,
+    "pages_visited": 23
+  },
+  "cat:2026-05-15T06:https://laodong.vn/kinh-doanh/": {
+    "done": true,
+    "ts": "2026-05-15T07:10:25.323673+00:00",
+    "added": 34,
+    "dup": 208,
+    "invalid": 12,
+    "fetch_failed": 0,
+    "too_old": 2,
+    "pages_visited": 18
+  },
+  "cat:2026-05-15T06:https://laodong.vn/bat-dong-san/": {
+    "done": true,
+    "ts": "2026-05-15T07:11:07.297630+00:00",
+    "added": 21,
+    "dup": 132,
+    "invalid": 8,
+    "fetch_failed": 0,
+    "too_old": 6,
+    "pages_visited": 10
+  },
+  "cat:2026-05-15T06:https://laodong.vn/van-hoa/": {
+    "done": true,
+    "ts": "2026-05-15T07:11:34.200649+00:00",
+    "added": 14,
+    "dup": 58,
+    "invalid": 8,
+    "fetch_failed": 0,
+    "too_old": 2,
+    "pages_visited": 4
+  },
+  "cat:2026-05-15T06:https://laodong.vn/giao-duc/": {
+    "done": true,
+    "ts": "2026-05-15T07:12:06.212783+00:00",
+    "added": 14,
+    "dup": 105,
+    "invalid": 10,
+    "fetch_failed": 0,
+    "too_old": 1,
+    "pages_visited": 8
+  },
+  "cat:2026-05-15T06:https://laodong.vn/the-thao/": {
+    "done": true,
+    "ts": "2026-05-15T07:13:35.160652+00:00",
+    "added": 54,
+    "dup": 273,
+    "invalid": 16,
+    "fetch_failed": 0,
+    "too_old": 1,
+    "pages_visited": 23
+  },
+  "cat:2026-05-15T06:https://laodong.vn/suc-khoe/": {
+    "done": true,
+    "ts": "2026-05-15T07:15:26.956107+00:00",
+    "added": 43,
+    "dup": 185,
+    "invalid": 45,
+    "fetch_failed": 0,
+    "too_old": 8,
+    "pages_visited": 21
+  },
+  "cat:2026-05-15T06:https://laodong.vn/cong-nghe/": {
+    "done": true,
+    "ts": "2026-05-15T07:16:13.626703+00:00",
+    "added": 12,
+    "dup": 167,
+    "invalid": 5,
+    "fetch_failed": 0,
+    "too_old": 18,
+    "pages_visited": 14
+  },
+  "cat:2026-05-15T06:https://laodong.vn/xe/": {
+    "done": true,
+    "ts": "2026-05-15T07:16:39.144575+00:00",
+    "added": 6,
+    "dup": 179,
+    "invalid": 5,
+    "fetch_failed": 0,
+    "too_old": 5,
+    "pages_visited": 12
+  },
+  "cat:2026-05-15T06:https://laodong.vn/du-lich/": {
+    "done": true,
+    "ts": "2026-05-15T07:16:42.145595+00:00",
+    "added": 0,
+    "dup": 0,
+    "invalid": 0,
+    "fetch_failed": 0,
+    "too_old": 0,
+    "pages_visited": 3
+  },
+  "cat:2026-05-15T06:https://dantri.com.vn/tin-moi-nhat.htm": {
+    "done": true,
+    "ts": "2026-05-15T07:17:00.051120+00:00",
+    "added": 11,
+    "dup": 5,
+    "invalid": 1,
+    "fetch_failed": 0,
+    "too_old": 1,
+    "pages_visited": 4
+  },
+  "cat:2026-05-15T06:https://dantri.com.vn/the-gioi.htm": {
+    "done": true,
+    "ts": "2026-05-15T07:17:58.565224+00:00",
+    "added": 29,
+    "dup": 52,
+    "invalid": 3,
+    "fetch_failed": 0,
+    "too_old": 18,
+    "pages_visited": 3
+  },
+  "cat:2026-05-15T06:https://dantri.com.vn/thoi-su.htm": {
+    "done": true,
+    "ts": "2026-05-15T07:20:08.910311+00:00",
+    "added": 22,
+    "dup": 18,
+    "invalid": 0,
+    "fetch_failed": 1,
+    "too_old": 1,
+    "pages_visited": 4
+  },
+  "cat:2026-05-15T06:https://dantri.com.vn/phap-luat.htm": {
+    "done": true,
+    "ts": "2026-05-15T07:21:15.282054+00:00",
+    "added": 26,
+    "dup": 55,
+    "invalid": 1,
+    "fetch_failed": 0,
+    "too_old": 21,
+    "pages_visited": 3
+  },
+  "cat:2026-05-15T06:https://dantri.com.vn/suc-khoe.htm": {
+    "done": true,
+    "ts": "2026-05-15T07:25:13.060903+00:00",
+    "added": 12,
+    "dup": 70,
+    "invalid": 1,
+    "fetch_failed": 4,
+    "too_old": 87,
+    "pages_visited": 3
+  },
+  "cat:2026-05-15T06:https://dantri.com.vn/doi-song.htm": {
+    "done": true,
+    "ts": "2026-05-15T07:27:46.133434+00:00",
+    "added": 6,
+    "dup": 48,
+    "invalid": 4,
+    "fetch_failed": 4,
+    "too_old": 19,
+    "pages_visited": 2
+  },
+  "cat:2026-05-15T06:https://dantri.com.vn/du-lich.htm": {
+    "done": true,
+    "ts": "2026-05-15T07:28:17.737087+00:00",
+    "added": 6,
+    "dup": 47,
+    "invalid": 2,
+    "fetch_failed": 0,
+    "too_old": 23,
+    "pages_visited": 2
+  },
+  "cat:2026-05-15T06:https://dantri.com.vn/kinh-doanh.htm": {
+    "done": true,
+    "ts": "2026-05-15T07:33:47.397235+00:00",
+    "added": 22,
+    "dup": 130,
+    "invalid": 0,
+    "fetch_failed": 8,
+    "too_old": 58,
+    "pages_visited": 5
+  },
+  "cat:2026-05-15T06:https://dantri.com.vn/bat-dong-san.htm": {
+    "done": true,
+    "ts": "2026-05-15T07:36:56.314405+00:00",
+    "added": 13,
+    "dup": 56,
+    "invalid": 1,
+    "fetch_failed": 4,
+    "too_old": 51,
+    "pages_visited": 3
+  },
+  "cat:2026-05-15T06:https://dantri.com.vn/the-thao.htm": {
+    "done": true,
+    "ts": "2026-05-15T07:39:45.333585+00:00",
+    "added": 16,
+    "dup": 45,
+    "invalid": 0,
+    "fetch_failed": 3,
+    "too_old": 30,
+    "pages_visited": 3
+  },
+  "cat:2026-05-15T06:https://dantri.com.vn/giai-tri.htm": {
+    "done": true,
+    "ts": "2026-05-15T07:42:17.459061+00:00",
+    "added": 15,
+    "dup": 54,
+    "invalid": 1,
+    "fetch_failed": 4,
+    "too_old": 12,
+    "pages_visited": 2
+  },
+  "cat:2026-05-15T06:https://dantri.com.vn/giao-duc.htm": {
+    "done": true,
+    "ts": "2026-05-15T07:42:52.345329+00:00",
+    "added": 11,
+    "dup": 51,
+    "invalid": 0,
+    "fetch_failed": 0,
+    "too_old": 21,
+    "pages_visited": 2
+  },
+  "cat:2026-05-15T06:https://dantri.com.vn/o-to-xe-may.htm": {
+    "done": true,
+    "ts": "2026-05-15T07:43:12.916495+00:00",
+    "added": 8,
+    "dup": 54,
+    "invalid": 0,
+    "fetch_failed": 0,
+    "too_old": 10,
+    "pages_visited": 2
+  },
+  "cat:2026-05-15T06:https://dantri.com.vn/noi-vu.htm": {
+    "done": true,
+    "ts": "2026-05-15T07:45:07.220871+00:00",
+    "added": 9,
+    "dup": 28,
+    "invalid": 0,
+    "fetch_failed": 0,
+    "too_old": 4,
+    "pages_visited": 4
+  },
+  "cat:2026-05-15T06:https://dantri.com.vn/cong-nghe.htm": {
+    "done": true,
+    "ts": "2026-05-15T07:45:44.789932+00:00",
+    "added": 5,
+    "dup": 45,
+    "invalid": 0,
+    "fetch_failed": 0,
+    "too_old": 10,
+    "pages_visited": 2
   }
 }
